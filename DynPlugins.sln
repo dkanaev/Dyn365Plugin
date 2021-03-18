@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynPlugins", "DynPlugins\DynPlugins.csproj", "{626F88A5-CD5C-445F-B64F-C878CEE1D55B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynPlugins.UnitTests", "DynPlugins.UnitTests\DynPlugins.UnitTests.csproj", "{34754E9F-28D8-4781-8A93-3A7FE8544249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{626F88A5-CD5C-445F-B64F-C878CEE1D55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626F88A5-CD5C-445F-B64F-C878CEE1D55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626F88A5-CD5C-445F-B64F-C878CEE1D55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626F88A5-CD5C-445F-B64F-C878CEE1D55B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34754E9F-28D8-4781-8A93-3A7FE8544249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34754E9F-28D8-4781-8A93-3A7FE8544249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34754E9F-28D8-4781-8A93-3A7FE8544249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34754E9F-28D8-4781-8A93-3A7FE8544249}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF7FF8AC-3625-4EF6-B896-9AAAF2708081}
+	EndGlobalSection
+EndGlobal
